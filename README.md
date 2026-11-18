@@ -1,6 +1,4 @@
 # NL-Selfdriving-Car
 Andreas, Mark, Faas og Daphne
 
-
-
-![alt text](http://url/to/img.png)
+![Whiteboard](https://raw.githubusercontent.com/Mercantec-GHC/NL-Selfdriving-Car/refs/heads/main/whiteboard.png)
