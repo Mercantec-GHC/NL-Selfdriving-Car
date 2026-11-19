@@ -5,21 +5,21 @@ Andreas, Mark, Faas og Daphne
 
 
 ## Project requirements
-* Car is assembled with necessary parts to be controlled.
+* **Car is assembled with necessary parts to be controlled.**
 	- [ ] Arduino is physically attached to the car.
 	- [ ] Arduino can connect to wifi.
 
-* Car is assembled with necessary parts to drive.
+* **Car is assembled with necessary parts to drive.**
 	- [ ] Cables.
 	- [ ] Front steerable wheels.
 	- [ ] Back wheels.
 	- [ ] Battery case.
 	- [ ] Motor to drive forwards and backwards.
 
-* Website is ready to control the car.
-	* Design:
+* **Website is ready to control the car.**
+	* **Design:**
 		- [ ] Mockup.
 		- [ ] Frontend design layout.
 		- [ ] Indicator to visualize if arduino is connected to the website.
-	* Functionality:
+	* **Functionality:**
 		- [ ] Website buttons to send inputs to arduino.
