@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="400" height="400" viewBox="0 0 400 400">
+  <defs>
+    <clipPath id="clip-path-1">
+      <path d="M0 0 L24 0 L24 24 L0 24 Z"/>
+    </clipPath>
+    <pattern id="pattern-1" patternUnits="userSpaceOnUse" width="24" height="24" patternTransform="matrix(1 0 0 1 64 266)">
+      <g clip-path="url(#clip-path-1)">
+        <rect x="0" y="0" width="24" height="24" fill="#f4f7f7"/>
+        <rect x="0" y="0" width="12" height="12" fill="#0d1b1e"/>
+        <rect x="12" y="12" width="12" height="12" fill="#0d1b1e"/>
+      </g>
+    </pattern>
+  </defs>
+  <title>pitboard-logo.svg</title>
+  <g id="Layer_1" data-name="Layer 1">
+    <path d="M64 20 L336 20 C360.301 20 380 39.699 380 64 L380 336 C380 360.301 360.301 380 336 380 L64 380 C39.699 380 20 360.301 20 336 L20 64 C20 39.699 39.699 20 64 20 Z" fill="#0d1b1e"/>
+    <path d="M66 32 L334 32 C352.778 32 368 47.222 368 66 L368 334 C368 352.778 352.778 368 334 368 L66 368 C47.222 368 32 352.778 32 334 L32 66 C32 47.222 47.222 32 66 32 Z" fill="none" stroke="#00979d" stroke-width="3"/>
+    <g>
+      <path d="M92 22 L98 22 C99.105 22 100 22.895 100 24 L100 36 C100 37.105 99.105 38 98 38 L92 38 C90.895 38 90 37.105 90 36 L90 24 C90 22.895 90.895 22 92 22 Z" fill="#00979d"/>
+      <path d="M122 22 L128 22 C129.105 22 130 22.895 130 24 L130 36 C130 37.105 129.105 38 128 38 L122 38 C120.895 38 120 37.105 120 36 L120 24 C120 22.895 120.895 22 122 22 Z" fill="#00979d"/>
+      <path d="M152 22 L158 22 C159.105 22 160 22.895 160 24 L160 36 C160 37.105 159.105 38 158 38 L152 38 C150.895 38 150 37.105 150 36 L150 24 C150 22.895 150.895 22 152 22 Z" fill="#00979d"/>
+      <path d="M182 22 L188 22 C189.105 22 190 22.895 190 24 L190 36 C190 37.105 189.105 38 188 38 L182 38 C180.895 38 180 37.105 180 36 L180 24 C180 22.895 180.895 22 182 22 Z" fill="#00979d"/>
+      <path d="M212 22 L218 22 C219.105 22 220 22.895 220 24 L220 36 C220 37.105 219.105 38 218 38 L212 38 C210.895 38 210 37.105 210 36 L210 24 C210 22.895 210.895 22 212 22 Z" fill="#00979d"/>
+      <path d="M242 22 L248 22 C249.105 22 250 22.895 250 24 L250 36 C250 37.105 249.105 38 248 38 L242 38 C240.895 38 240 37.105 240 36 L240 24 C240 22.895 240.895 22 242 22 Z" fill="#00979d"/>
+      <path d="M272 22 L278 22 C279.105 22 280 22.895 280 24 L280 36 C280 37.105 279.105 38 278 38 L272 38 C270.895 38 270 37.105 270 36 L270 24 C270 22.895 270.895 22 272 22 Z" fill="#00979d"/>
+      <path d="M302 22 L308 22 C309.105 22 310 22.895 310 24 L310 36 C310 37.105 309.105 38 308 38 L302 38 C300.895 38 300 37.105 300 36 L300 24 C300 22.895 300.895 22 302 22 Z" fill="#00979d"/>
+      <path d="M92 362 L98 362 C99.105 362 100 362.895 100 364 L100 376 C100 377.105 99.105 378 98 378 L92 378 C90.895 378 90 377.105 90 376 L90 364 C90 362.895 90.895 362 92 362 Z" fill="#00979d"/>
+      <path d="M122 362 L128 362 C129.105 362 130 362.895 130 364 L130 376 C130 377.105 129.105 378 128 378 L122 378 C120.895 378 120 377.105 120 376 L120 364 C120 362.895 120.895 362 122 362 Z" fill="#00979d"/>
+      <path d="M152 362 L158 362 C159.105 362 160 362.895 160 364 L160 376 C160 377.105 159.105 378 158 378 L152 378 C150.895 378 150 377.105 150 376 L150 364 C150 362.895 150.895 362 152 362 Z" fill="#00979d"/>
+      <path d="M182 362 L188 362 C189.105 362 190 362.895 190 364 L190 376 C190 377.105 189.105 378 188 378 L182 378 C180.895 378 180 377.105 180 376 L180 364 C180 362.895 180.895 362 182 362 Z" fill="#00979d"/>
+      <path d="M212 362 L218 362 C219.105 362 220 362.895 220 364 L220 376 C220 377.105 219.105 378 218 378 L212 378 C210.895 378 210 377.105 210 376 L210 364 C210 362.895 210.895 362 212 362 Z" fill="#00979d"/>
+      <path d="M242 362 L248 362 C249.105 362 250 362.895 250 364 L250 376 C250 377.105 249.105 378 248 378 L242 378 C240.895 378 240 377.105 240 376 L240 364 C240 362.895 240.895 362 242 362 Z" fill="#00979d"/>
+      <path d="M272 362 L278 362 C279.105 362 280 362.895 280 364 L280 376 C280 377.105 279.105 378 278 378 L272 378 C270.895 378 270 377.105 270 376 L270 364 C270 362.895 270.895 362 272 362 Z" fill="#00979d"/>
+      <path d="M302 362 L308 362 C309.105 362 310 362.895 310 364 L310 376 C310 377.105 309.105 378 308 378 L302 378 C300.895 378 300 377.105 300 376 L300 364 C300 362.895 300.895 362 302 362 Z" fill="#00979d"/>
+    </g>
+    <g>
+      <line x1="50" y1="170" x2="90" y2="170" fill="none" stroke="#00979d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <polyline points="50,192 66,192 74,200 98,200" fill="none" stroke="#00979d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <line x1="50" y1="214" x2="97" y2="214" fill="none" stroke="#00979d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <polyline points="50,234 70,234 78,226 96,226" fill="none" stroke="#00979d" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+    </g>
+    <g>
+      <circle cx="50" cy="170" r="4" fill="#0d1b1e" stroke="#00979d" stroke-width="3"/>
+      <circle cx="50" cy="192" r="4" fill="#0d1b1e" stroke="#00979d" stroke-width="3"/>
+      <circle cx="50" cy="214" r="4" fill="#0d1b1e" stroke="#00979d" stroke-width="3"/>
+      <circle cx="50" cy="234" r="4" fill="#0d1b1e" stroke="#00979d" stroke-width="3"/>
+    </g>
+    <rect x="106" y="174" width="6" height="30" fill="#00979d"/>
+    <path d="M90 164 L132 164 C133.105 164 134 164.895 134 166 L134 171 C134 172.105 133.105 173 132 173 L90 173 C88.895 173 88 172.105 88 171 L88 166 C88 164.895 88.895 164 90 164 Z" fill="#e10600"/>
+    <path d="M328 231 L374 231 C375.105 231 376 231.895 376 233 L376 237 C376 238.105 375.105 239 374 239 L328 239 C326.895 239 326 238.105 326 237 L326 233 C326 231.895 326.895 231 328 231 Z" fill="#e10600"/>
+    <polygon points="92,236 98,198 150,190 196,172 250,172 290,196 346,214 352,224 352,236" fill="#00979d"/>
+    <polygon points="196,172 212,150 236,150 246,172" fill="#0d1b1e" stroke="#f4f7f7" stroke-width="3" stroke-linejoin="round"/>
+    <line x1="170" y1="214" x2="280" y2="214" fill="#000000" stroke="#e10600" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="130" cy="236" r="28" fill="#0d1b1e" stroke="#f4f7f7" stroke-width="4"/>
+    <circle cx="130" cy="236" r="11" fill="#00979d"/>
+    <circle cx="130" cy="236" r="4" fill="#0d1b1e"/>
+    <circle cx="310" cy="240" r="24" fill="#0d1b1e" stroke="#f4f7f7" stroke-width="4"/>
+    <circle cx="310" cy="240" r="10" fill="#00979d"/>
+    <circle cx="310" cy="240" r="3.5" fill="#0d1b1e"/>
+    <rect x="64" y="266" width="272" height="24" fill="url(#pattern-1)"/>
+    <rect x="64" y="266" width="272" height="24" fill="none" stroke="#00979d" stroke-width="2"/>
+    <text transform="matrix(1 0 0 1 197.5 330)" x="2.5" y="0" xml:space="preserve" font-family="&apos;Arial Black&apos;, sans-serif" font-size="34" font-weight="900" fill="#f4f7f7" letter-spacing="5" text-anchor="middle"><tspan x="2.5" y="0">FORMULA</tspan></text>
+    <text transform="matrix(1 0 0 1 198 350)" x="2" y="0" xml:space="preserve" font-family="Arial, sans-serif" font-size="11" font-weight="bold" fill="#00979d" letter-spacing="4" text-anchor="middle"><tspan x="2" y="0">CONTROL AT RACE SPEED</tspan></text>
+  </g>
+</svg>
