@@ -21,7 +21,7 @@ Andreas, Mark, Faas og Daphne
 * Basic Movement: Car responds to commands (using IN1-IN4 for direction, EN1-EN2 for PWM speed).
 * Fail-Safe (Stall Timeout): If no command is received for 500ms, motors stop.
 * Soft-Start Ramping: Code ramps PWM up/down over ~300ms to prevent brownouts and protect the gears.
-* PWM Capping: Maximum speed capped in code (e.g., max 180/255) to protect the 6V motors from the 7.2V battery pack.
+* PWM Capping: Maximum speed capped in code (e.g., max 180/255) to protect the 6V motors from the 9V battery pack.
 
 ### 🟨 SHOULD HAVE
 **Hardware**
