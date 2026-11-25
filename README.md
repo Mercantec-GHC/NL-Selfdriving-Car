@@ -7,6 +7,7 @@ Andreas, Mark, Faas og Daphne
 
 ## 📋 MoSCoW Prioritization
 
+
 ### 🟥 MUST HAVE
 **Hardware & Assembly**
 * 4WD Car Kit Assembly: Chassis built, 4x TT motors mounted, wheels attached.
