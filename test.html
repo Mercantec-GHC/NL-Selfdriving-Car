@@ -1,0 +1,21 @@
+﻿WebSocket Test
+<script>
+    const ws = new WebSocket("ws://192.168.0.100:81");
+
+    ws.onopen = () => { console.log("Open"); ws.send("stuff"); };
+    ws.onmessage = (e) => console.log("Got back:", e.data);
+    ws.onerror = (e) => console.log("Error", e);
+    ws.onclose = (e) => console.log("Closed", e.code);
+    
+    addEventListener("keypress" , (e) => {
+        if (e.key === "w") {
+            ws.send("up");
+        } else if (e.key === "s") {
+            ws.send("down");
+        } else if (e.key === "a") {
+            ws.send("left");
+        } else if (e.key === "d") {
+            ws.send("right");
+        }
+    });
+</script>

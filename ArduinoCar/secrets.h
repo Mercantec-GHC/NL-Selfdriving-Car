@@ -1,0 +1,2 @@
+#define WIFI_SSID "TP-Link_2DDA"
+#define WIFI_PASS "70530407"
