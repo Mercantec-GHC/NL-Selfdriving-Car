@@ -11,7 +11,7 @@ Andreas, Mark, Faas og Daphne
 **Hardware & Assembly**
 * 4WD Car Kit Assembly: Chassis built, 4x TT motors mounted, wheels attached.
 * Motor Wiring: Left motors wired in parallel to A+/A-; Right motors wired in parallel to B+/B- on the Deek Shield screw terminals.
-* Power System: 6xAA battery pack plugged directly into the Arduino Uno R4.
+* Power System: 8xAA battery pack plugged directly into the Arduino Uno R4.
 * Motor Driver: Deek Robot Shield V1 (L298P) seated on the Uno R4.
 
 **Software & Control**
