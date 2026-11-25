@@ -1,0 +1,151 @@
+
+nav {
+	@apply
+		font-normal
+		flex flex-wrap items-center justify-between
+		border-transparent
+		container mx-auto px-4
+		max-w-[940px]
+		relative
+	;
+}
+
+/* logo link */
+nav > a {
+	@apply
+		z-51
+	;
+}
+
+/* logo */
+nav > a img {
+	@apply
+		items-center
+		w-[100px] sm:w-[65px] lg:w-[50px] xl:w-[72px]
+		pt-2.5
+	;
+}
+
+nav button {
+	@apply
+		text-gray-500
+		text-sm
+		md:hidden
+		hover:bg-gray-100 focus:outline-none focus:ring-2 focus:ring-gray-200
+		rounded-lg
+		p-2 w-10 h-10 justify-center
+		inline-flex items-center
+	;
+}
+
+/* Burgermenu icon */
+nav button svg {
+	@apply
+		w-5 h-5
+	;
+}
+
+#desktop_menu {
+	@apply
+		hidden w-full md:flex md:w-auto mt-auto flex-col
+		h-[22px]
+	;
+}
+
+#desktop_menu ul {
+	@apply
+		bg-gray-50 md:border-0 md:bg-white
+		font-medium
+		flex flex-col
+		border border-gray-100
+		p-4 md:p-0 mt-4 md:mt-0 md:flex-row
+	;
+}
+
+#desktop_menu a {
+	@apply
+		md:mx-4
+	;
+}
+
+#desktop_menu li:not(:first-child):before {
+	@apply
+		text-[0.85rem]
+		content-['']
+		border-r border-[#777] border-dotted
+	;
+}
+
+/* hide Alpine dropwown while page loads */
+[x-cloak] {
+	@apply
+		hidden
+	;
+}
+
+/* Mobile version */
+#mobile_menu {
+	@apply
+		md:hidden
+		mt-2
+		w-full
+		transition-all duration-550 ease-in-out
+	;
+}
+
+#mobile_menu ul {
+	@apply
+		bg-white border 
+		font-medium
+		border-gray-100 rounded-lg
+		p-4 mt-2
+		flex flex-col
+	;
+}
+
+.nav-link {
+	@apply
+		text-gray-900 md:hover:text-trp-blue
+		hover:bg-gray-100 md:hover:bg-transparent
+		rounded-sm md:border-0
+		py-2 px-3 md:p-0
+	;
+}
+
+/* Teamviewer logo */
+.nav-link img {
+	@apply
+		inline-block
+		mr-1
+	;
+}
+
+.nav-link--active {
+	@apply
+		text-white bg-trp-blue md:bg-transparent md:text-trp-blue
+		rounded-sm
+		py-2 px-3 md:p-0
+	;
+}
+
+.nav-link-mobile,
+.nav-link-mobile--active {
+	@apply
+		flex justify-between w-full
+		border-b border-trp-grey-light rounded-sm
+		px-2 py-4
+	;
+}
+
+.nav-link-mobile {
+	@apply
+		bg-white
+		hover:bg-trp-grey-light
+	;
+}
+
+.nav-link-mobile--active {
+	@apply
+		text-white bg-trp-blue
+	;
+}
