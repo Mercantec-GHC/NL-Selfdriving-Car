@@ -1,0 +1,289 @@
+
+#forside main {
+	@apply 
+		bg-[#ededed] 
+		text-[#380a05]
+	;
+}
+
+.formula-shell {
+	@apply 
+		mx-auto py-8
+		w-[92%] max-w-7xl
+		text-center
+	;
+}
+
+.formula-card {
+	@apply 
+		rounded-none border border-[#d3d3d3]
+		bg-white
+		p-6 sm:p-8
+		shadow-[0_12px_35px_rgba(74,46,111,0.10)]
+	;
+}
+
+.formula-card h1,
+.formula-card h2 {
+	@apply 
+		mb-3
+		font-bold text-trp-blue
+	;
+}
+
+.formula-card h1 {
+	@apply 
+		text-3xl
+	;
+}
+
+.formula-card h2 {
+	@apply 
+		text-xl
+	;
+}
+
+.formula-card p {
+	@apply 
+		text-sm leading-relaxed text-[#5b5068]
+	;
+}
+
+.formula-fact,
+.formula-member {
+	@apply 
+		flex flex-col
+		gap-1
+		rounded-none
+		border border-[#eadff4]
+		bg-[##f6f6f6]
+		p-4
+		transition
+	;
+}
+
+.formula-fact strong,
+.formula-member strong {
+	@apply 
+		text-sm font-bold text-slate-900
+	;
+}
+
+.formula-fact span,
+.formula-member small {
+	@apply 
+		text-xs text-slate-500
+	;
+}
+
+.formula-visual {
+	@apply 
+		flex flex-col
+		min-h-64
+		items-center justify-center
+		rounded-none
+		bg-[#f6f6f6]
+		p-8
+		text-center text-white
+	;
+}
+
+.formula-visual img {
+	@apply 
+		w-[60%] max-w-[210px]
+	;
+}
+
+.formula-visual h2 {
+	@apply 
+		text-white
+	;
+}
+
+.formula-visual p {
+	@apply 
+		font-mono text-xs text-teal-300
+	;
+}
+
+#controller-status {
+	@apply 
+		mb-6 pb-4
+		flex
+		items-center
+		justify-between
+		gap-3
+		border-b border-slate-100
+	;
+}
+
+#conn-badge {
+	@apply 
+		rounded-full
+		px-3 py-1
+		text-xs font-semibold
+	;
+}
+
+#conn-badge[data-state="connecting"] {
+	@apply 
+		bg-amber-50
+		text-amber-700
+	;
+}
+
+#conn-badge[data-state="connected"] {
+	@apply 
+		bg-emerald-50
+		text-emerald-700
+	;
+}
+
+#last-cmd {
+	@apply 
+		rounded
+		bg-slate-100
+		px-3 py-1
+		font-mono text-xs text-slate-600
+	;
+}
+
+#formula-pad {
+	@apply 
+		mx-auto
+		w-[18rem]
+		max-w-full
+		p-4
+		flex flex-col
+		gap-3
+		border border-[#e9e9e9]
+		bg-[#ebeaeb]
+	;
+}
+
+#formula-pad-top,
+#formula-pad-middle,
+#formula-pad-bottom {
+	@apply
+		flex
+		items-center
+		justify-between
+	;
+}
+#formula-pad-middle {
+	@apply
+		gap-20
+	;
+}
+
+
+#formula-pad-top,
+#formula-pad-bottom {
+	@apply justify-center;
+}
+
+#formula-pad button {
+	@apply 
+		flex flex-col
+		h-20 w-20
+		items-center justify-center
+		rounded-lg
+		border-2 border-[#e9e9e9]
+		bg-white
+		shadow
+		transition
+		hover:-translate-y-1 hover:shadow-md
+		active:bg-[#c5c5c5]
+		
+	;
+}
+
+.formula-log {
+	@apply 
+		mt-6 p-3
+		flex flex-col
+		gap-1
+		rounded-none
+		border border-[#eadff4]
+		bg-[##f6f6f6]
+		font-mono text-xs text-[#5b5068]
+	;
+}
+
+.formula-log strong {
+	@apply 
+		border-b border-slate-200
+		pb-1
+		text-slate-500
+	;
+}
+
+.formula-movements {
+	@apply 
+		mt-6 pt-4
+		border-t border-[#eadff4]
+		text-left
+	;
+}
+
+.formula-movements h3 {
+	@apply 
+		mb-3
+		text-lg font-bold text-trp-blue
+	;
+}
+
+.formula-movements {
+	@apply 
+		mt-6 pt-4
+		border-t border-[#eadff4]
+		text-left
+	;
+}
+
+.formula-movements h3 {
+	@apply 
+		mb-3
+		text-lg font-bold text-[#4a2e6f]
+	;
+}
+
+.formula-movement {
+	@apply 
+		flex
+		items-center
+		justify-between
+		border-b border-[#f0e8f6]
+		py-2
+		text-sm
+	;
+}
+
+.formula-movement strong {
+	@apply 
+		text-[#380a05]
+	;
+}
+
+.formula-movement time {
+	@apply 
+		text-xs text-[#8b7b96]
+	;
+}
+
+#movement-log {
+	@apply 
+		overflow-y-scroll
+		h-[330px] 
+	;
+}
+
+
+
+
+#conn-badge[data-state="connected"] {
+	@apply 
+		bg-emerald-50
+		text-emerald-700
+	;
+}

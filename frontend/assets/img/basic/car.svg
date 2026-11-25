@@ -1,0 +1,30 @@
+<svg viewBox="0 0 100 200" class="w-full h-full drop-shadow-2xl transition-transform duration-300 group-hover:scale-105" fill="none" xmlns="http://www.w3.org/2000/svg">
+<!-- Front Wing -->
+<rect x="15" y="15" width="70" height="8" rx="2" fill="#DC2626"></rect>
+<rect x="25" y="10" width="50" height="5" rx="1" fill="#1E293B"></rect>
+<!-- Front Wheels -->
+<rect id="wheel-fl" x="6" y="28" width="14" height="26" rx="3" fill="#111827" stroke="#475569" stroke-width="2"></rect>
+<rect id="wheel-fr" x="80" y="28" width="14" height="26" rx="3" fill="#111827" stroke="#475569" stroke-width="2"></rect>
+<!-- Steering rod -->
+<path d="M20 41 L80 41" stroke="#64748B" stroke-width="3"></path>
+<!-- Main Body Nosecone -->
+<path d="M40 23 L60 23 L56 75 L44 75 Z" fill="#DC2626"></path>
+<!-- Cockpit -->
+<path d="M42 75 L58 75 L64 125 L36 125 Z" fill="#B91C1C"></path>
+<ellipse cx="50" cy="95" rx="7" ry="12" fill="#0F172A"></ellipse>
+<circle cx="50" cy="92" r="4" fill="#38BDF8"></circle> <!-- Driver helmet -->
+<!-- Sidepods -->
+<path d="M28 85 L36 80 L36 140 L24 135 Z" fill="#DC2626"></path>
+<path d="M72 85 L64 80 L64 140 L76 135 Z" fill="#DC2626"></path>
+<!-- Intake ducts -->
+<rect x="28" y="85" width="7" height="15" rx="2" fill="#0F172A"></rect>
+<rect x="65" y="85" width="7" height="15" rx="2" fill="#0F172A"></rect>
+<!-- Rear Wheels -->
+<rect x="4" y="140" width="18" height="34" rx="4" fill="#111827" stroke="#475569" stroke-width="2"></rect>
+<rect x="78" y="140" width="18" height="34" rx="4" fill="#111827" stroke="#475569" stroke-width="2"></rect>
+<!-- Rear Axle -->
+<line x1="22" y1="157" x2="78" y2="157" stroke="#64748B" stroke-width="4"></line>
+<!-- Rear Wing / Spoiler -->
+<rect x="18" y="178" width="64" height="14" rx="2" fill="#DC2626"></rect>
+<rect x="24" y="172" width="52" height="6" rx="1" fill="#1E293B"></rect>
+</svg>
