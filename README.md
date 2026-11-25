@@ -34,9 +34,6 @@ Andreas, Mark, Faas og Daphne
 * Speed Control: A slider or multiple speed settings on the website.
 
 ### 🟩 COULD HAVE
-**Hardware**
-* Motor Noise Suppression: Solder the 100nF ceramic capacitors across the terminals of the TT motors (Optional, only if glitches occur).
-
 **Sensors & Features (Using jumper wires/breadboard)**
 * Automatic Headlights: Use the GL5528 LDR and 5mm White LEDs.
 * Smart Brake Lights & 3rd Brake Light: Use the ADXL345 Accelerometer to detect deceleration and turn on rear red LEDs.
